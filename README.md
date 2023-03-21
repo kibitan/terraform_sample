@@ -1,4 +1,4 @@
-# terraform Sample
+# Terraform Sample
 
 ## Links
 
