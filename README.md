@@ -14,7 +14,7 @@
 ## reference
 
 * CLI refference: [Terraform CLI Documentation | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/cli)
-* [Terraform CLI Documentation | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/cli)
+* [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 
 ## go more..
