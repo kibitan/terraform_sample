@@ -2,7 +2,8 @@
 
 ## Links
 
-* official document: [Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform), [Overview - Configuration Language | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/language)
+* official document: [Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform)
+* official document: [Overview - Configuration Language | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/language)
 * official tutorial: [Tutorials | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/tutorials)
 * [An Introduction to Terraform for Beginners - Terraform Tutorial](https://geekflare.com/terraform-for-beginners/)
 * [Overview - Configuration Language | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/language)
